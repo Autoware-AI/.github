@@ -33,4 +33,4 @@ as per clause 5 of the Apache 2 License:
 For more detailed information on contributing to Autoware.AI, please see the contributing
 guidelines on the Autoware Wiki:
 
-https://github.com/Autoware-AI/autoware-ai/wiki/Contributing-to-Autoware
+https://github.com/Autoware-AI/autoware.ai/wiki/Contributing-to-Autoware

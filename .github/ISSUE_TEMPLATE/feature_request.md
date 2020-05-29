@@ -10,7 +10,7 @@ assignees: ''
 <!--
 For support requests, please ask at ROS Answers: https://answers.ros.org/questions/ask/?tags=autoware, make sure to use the "autoware" tag.
 For general questions and design discussion, please use the Autoware Discourse category: https://discourse.ros.org/c/autoware
-Not sure if this is the right repository? Open an issue on https://github.com/Autoware-AI/autoware-ai/issues
+Not sure if this is the right repository? Open an issue on https://github.com/Autoware-AI/autoware.ai/issues
 For feature requests, please fill out the information below.
 Be as detailed as possible.
 -->
