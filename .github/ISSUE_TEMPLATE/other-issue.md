@@ -3,7 +3,7 @@ name: Other issue
 about: Issues that are not bug reports or feature requests (do not use for support requests; see https://github.com/Autoware-AI/autoware.ai/wiki/Support-guidelines)
 title: ''
 labels: ''
-assignees: gbiggs
+assignees: ''
 
 ---
 
