@@ -3,7 +3,7 @@
 This organization was originally created to keep the repositories related to the Autoware-AI project, the world's first "all-in-one" open-source software for self-driving vehicles.
 
 ### Announcement on End-of-Life of Autoware-AI by the end of 2022  and Transition to ROS2
-As some of the users may know, the Autoware Foundation is currently developing Autoware Core/Universe, which is ROS2 version of Autoware. In order to focus our resources, the Technical Steering Committee has decided on the end-of-life date for Autoware.AI by the end of 2022 as [announced in 2020](https://github.com/autowarefoundation/autoware).
+As some of the users may know, the Autoware Foundation is currently developing Autoware Core/Universe, which is ROS2 version of Autoware. In order to focus our resources, the Technical Steering Committee has decided on the end-of-life date for Autoware.AI by the end of 2022 as [announced in 2020](https://discourse.ros.org/t/end-of-life-dates-for-autoware-ai/13750).
 
 After the end-of-life, no releases will be made and no merge requests accepted. The source will still be available if someone wishes to fork and maintain it themselves, but the Autoware Foundation will not commit any resources to maintaining Autoware.AI beyond this date.
 
