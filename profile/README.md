@@ -10,9 +10,9 @@ After the end-of-life, no releases will be made and no merge requests accepted. 
 Please be aware that we do NOT stop development of Autoware, and we are just transitioning to ROS2 based Autoware for future development. We encourage any current and future contributors to consider using/contributing to Autoware Core/Universe rather than Autoware.AI.
 If you wish to use the newest Autoware, please visit the new repository https://github.com/autowarefoundation/autoware.
 
-### Peoeple who wish to keep using Autoware-AI
+### Peoeple who wish to use Autoware-AI
 The Autoware-AI repositories were transferred to the AutowareFoundation GitHub as of June 2022 to have a single GitHub organization for Autoware.
-If you wish to use ROS1 based Autoware, visit https://github.com/autowarefoundation/autoware.ai/https://github.com/autowarefoundation/autoware.ai/tree/autoware-ai.
+If you wish to use ROS1 based Autoware, visit https://github.com/autowarefoundation/autoware.ai/tree/autoware-ai.
 
 <!--
 
