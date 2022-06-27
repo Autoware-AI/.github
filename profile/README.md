@@ -12,7 +12,7 @@ If you wish to use the newest Autoware, please visit the new repository https://
 
 ### People who wish to use Autoware-AI
 The Autoware-AI repositories were transferred to the AutowareFoundation GitHub as of June 2022 to have a single GitHub organization for Autoware.
-If you wish to use ROS 1 based Autoware, visit https://github.com/autowarefoundation/autoware.ai/tree/autoware-ai.
+If you wish to use ROS 1 based Autoware, visit https://github.com/autowarefoundation/autoware/tree/autoware-ai.
 
 <!--
 
